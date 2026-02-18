@@ -52,5 +52,5 @@ One of the main challenges was handling the asynchronous nature of Chrome's Serv
 2.  Open the Chrome browser and navigate to `chrome://extensions/`.
 3.  Enable **Developer Mode** using the toggle switch in the top-right corner.
 4.  Click the **Load unpacked** button.
-5.  Select the folder containing this project (`Task4_Productivity_Tracker`).
+5.  Select the folder containing this project (`CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS`).
 6.  The extension icon will appear in your toolbar. Click it to view your browsing stats.
