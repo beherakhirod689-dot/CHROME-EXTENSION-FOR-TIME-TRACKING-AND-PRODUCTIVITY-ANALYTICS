@@ -43,7 +43,7 @@ One of the main challenges was handling the asynchronous nature of Chrome's Serv
 
 ## OUTPUTS
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/b21ce18f-cebd-4bc9-8b59-a0dac656856c" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/db609cf8-4dfc-4401-886c-3c3499439582" />
 
 ---
 
